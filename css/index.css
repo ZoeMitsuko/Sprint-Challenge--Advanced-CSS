@@ -274,6 +274,10 @@ nav header .logo {
   justify-content: center;
   align-items: center;
 }
+.home .walk .walk-text .btn:hover {
+  color: #2d2d3a;
+  background: white;
+}
 @media (max-width:500px) {
   .home .walk .walk-text .btn {
     width: 400px;
